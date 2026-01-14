@@ -1,0 +1,62 @@
+AMENDED AND RESTATED REAL ESTATE TERM LOAN AGREEMENT
+
+This Amended and Restated Real Estate Term Loan Agreement ("Agreement") is dated February 14, 2026, between:
+
+LENDER: Summit Regional Bank
+Address: 900 Pine Street, Seattle, WA 98101
+
+BORROWER: Evergreen Office Partners, LP
+Address: 455 Lakeview Avenue, Seattle, WA 98102
+
+Section 1. Loan Amount and Use
+1.1 Loan Amount: Ten Million Dollars ($10,000,000).
+1.2 Use of Proceeds: Acquisition and capital improvements to 455 Lakeview Avenue.
+
+Section 2. Interest Rate and Payments
+2.1 Interest Rate: Variable at SOFR + 2.75%, adjusted quarterly.
+2.2 Interest Rate Cap: Not to exceed 8.50% per annum.
+2.3 Payments: Interest-only through December 2026; thereafter principal and interest.
+
+Section 3. Maturity
+3.1 Maturity Date: May 20, 2031.
+
+Section 4. Prepayment
+4.1 Prepayment: Allowed with a 2% penalty in years 1-3, 1% in years 4-5.
+
+Section 5. Collateral
+5.1 Collateral: First deed of trust on the property, assignment of rents, and pledge of borrower equity interests.
+
+Section 6. Financial Covenants
+6.1 DSCR: Minimum 1.40x, tested quarterly.
+6.2 Debt Yield: Minimum 10.0%, tested annually.
+6.3 Net Operating Income: Minimum $1,050,000 annually.
+
+Section 7. Reserves
+7.1 Capital Reserves: $250,000 annually.
+7.2 Leasing Reserves: $125,000 annually.
+7.3 Tenant Improvement Reserves: $100,000 annually.
+
+Section 8. Insurance
+8.1 Insurance: Expanded coverage including business interruption insurance.
+
+Section 9. Default
+9.1 Default: Payment default after 5 days; covenant default after 15 days; cash sweep on DSCR breach.
+
+Section 10. Fees
+10.1 Origination Fee: 0.75% of Loan Amount.
+10.2 Asset Management Fee: $20,000 per year.
+
+Section 11. Governing Law
+11.1 Governing Law: Washington.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+LENDER: Summit Regional Bank
+By: _______________________
+Name: Priya Shah
+Title: Director, Real Estate Lending
+
+BORROWER: Evergreen Office Partners, LP
+By: _______________________
+Name: Michael Grant
+Title: Managing Partner

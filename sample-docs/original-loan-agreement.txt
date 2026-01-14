@@ -1,0 +1,129 @@
+BUSINESS LOAN AGREEMENT
+
+This Loan Agreement ("Agreement") is entered into as of January 15, 2025, between:
+
+LENDER: Capital Financial Services LLC
+Address: 123 Wall Street, New York, NY 10005
+
+BORROWER: TechStart Industries Inc.
+Address: 456 Innovation Drive, San Francisco, CA 94102
+
+WHEREAS, Borrower has requested that Lender provide a loan facility, and Lender has agreed to provide such facility on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties agree as follows:
+
+Section 1. Definitions and Interpretation
+
+1.1 Principal Amount: The sum of Five Million Dollars ($5,000,000.00) to be advanced by Lender to Borrower.
+
+1.2 Business Day: Any day other than Saturday, Sunday, or a day on which banking institutions in New York are authorized or required by law to close.
+
+1.3 Default: Any Event of Default as defined in Section 7 of this Agreement.
+
+Section 2. The Loan
+
+2.1 Commitment: Subject to the terms and conditions of this Agreement, Lender agrees to lend to Borrower the Principal Amount.
+
+2.2 Purpose: The loan proceeds shall be used solely for working capital and general corporate purposes.
+
+2.3 Disbursement: The Principal Amount shall be disbursed to Borrower within five (5) Business Days following execution of this Agreement.
+
+Section 3. Interest Rate and Payments
+
+3.1 Interest Rate: The outstanding principal balance shall bear interest at a fixed rate of seven percent (7.00%) per annum.
+
+3.2 Payment Schedule: Borrower shall make monthly payments of principal and interest commencing on March 1, 2025, and continuing on the first day of each month thereafter.
+
+3.3 Calculation: Interest shall be calculated on the basis of actual days elapsed and a 360-day year.
+
+3.4 Late Payment Fee: If any payment is not received within ten (10) days of its due date, Borrower shall pay a late fee equal to five percent (5%) of the overdue amount.
+
+Section 4. Maturity and Prepayment
+
+4.1 Maturity Date: The entire outstanding principal balance, together with all accrued and unpaid interest, shall be due and payable on January 15, 2030 (the "Maturity Date").
+
+4.2 Prepayment: Borrower may prepay the loan in whole or in part at any time without penalty or premium.
+
+4.3 Application of Prepayments: Any prepayments shall be applied first to accrued interest and then to principal.
+
+Section 5. Collateral and Security
+
+5.1 Security Interest: To secure the payment and performance of all obligations under this Agreement, Borrower hereby grants to Lender a first priority security interest in all of Borrower's accounts receivable, inventory, and equipment.
+
+5.2 Perfection: Borrower agrees to execute and deliver such documents as Lender may reasonably request to perfect its security interest.
+
+Section 6. Representations and Warranties
+
+6.1 Organization: Borrower is a corporation duly organized, validly existing, and in good standing under the laws of Delaware.
+
+6.2 Authority: Borrower has full power and authority to enter into this Agreement and to perform its obligations hereunder.
+
+6.3 Financial Statements: All financial statements provided by Borrower to Lender are true, accurate, and complete in all material respects.
+
+6.4 No Litigation: There is no action, suit, or proceeding pending or threatened against Borrower that could materially adversely affect its business or financial condition.
+
+Section 7. Covenants
+
+7.1 Financial Reporting: Borrower shall provide to Lender:
+   (a) Annual audited financial statements within 120 days after fiscal year end
+   (b) Quarterly unaudited financial statements within 45 days after quarter end
+
+7.2 Minimum EBITDA: Borrower shall maintain minimum EBITDA of at least $1,000,000 per fiscal quarter, tested quarterly.
+
+7.3 Debt-to-Equity Ratio: Borrower shall maintain a debt-to-equity ratio not exceeding 2.0:1.0, tested quarterly.
+
+7.4 Capital Expenditures: Borrower shall not make capital expenditures exceeding $500,000 in any fiscal year without Lender's prior written consent.
+
+7.5 Dividends: Borrower may pay dividends to its shareholders, provided that no Event of Default has occurred and is continuing.
+
+7.6 Additional Debt: Borrower shall not incur additional debt exceeding $250,000 without Lender's prior written consent.
+
+Section 8. Events of Default
+
+8.1 The following shall constitute Events of Default:
+
+   (a) Failure to pay principal or interest when due and such failure continues for fifteen (15) days;
+   
+   (b) Breach of any covenant contained in Section 7 and such breach continues for thirty (30) days after written notice;
+   
+   (c) Any representation or warranty proves to have been materially incorrect when made;
+   
+   (d) Borrower becomes insolvent or commences bankruptcy proceedings;
+   
+   (e) A judgment exceeding $100,000 is entered against Borrower and remains unsatisfied for sixty (60) days.
+
+Section 9. Remedies
+
+9.1 Acceleration: Upon the occurrence of an Event of Default, Lender may declare all outstanding amounts immediately due and payable.
+
+9.2 Enforcement of Security: Lender may exercise any and all rights and remedies available under the Uniform Commercial Code.
+
+Section 10. Fees and Expenses
+
+10.1 Origination Fee: Borrower shall pay Lender an origination fee of one percent (1.0%) of the Principal Amount, payable at closing.
+
+10.2 Legal Fees: Borrower shall reimburse Lender for all reasonable legal fees and expenses incurred in connection with this Agreement.
+
+Section 11. General Provisions
+
+11.1 Governing Law: This Agreement shall be governed by the laws of the State of New York.
+
+11.2 Notices: All notices shall be in writing and delivered to the addresses set forth above.
+
+11.3 Amendments: This Agreement may be amended only by a written instrument signed by both parties.
+
+11.4 Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+11.5 Severability: If any provision is held invalid, the remainder shall continue in full force and effect.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+LENDER: Capital Financial Services LLC
+By: _______________________
+Name: Richard Morgan
+Title: Managing Director
+
+BORROWER: TechStart Industries Inc.
+By: _______________________
+Name: Sarah Chen
+Title: Chief Financial Officer

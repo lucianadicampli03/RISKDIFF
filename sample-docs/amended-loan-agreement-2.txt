@@ -1,0 +1,65 @@
+AMENDED AND RESTATED COMMERCIAL LOAN AGREEMENT
+
+This Amended and Restated Commercial Loan Agreement ("Agreement") is made as of October 10, 2025, by and between:
+
+LENDER: Northgate Bank, N.A.
+Address: 800 Market Street, Chicago, IL 60606
+
+BORROWER: Harbor Logistics, LLC
+Address: 2200 Riverfront Blvd, St. Louis, MO 63101
+
+RECITALS
+Borrower and Lender entered into a Commercial Loan Agreement dated March 3, 2025. The parties now amend and restate that Agreement.
+
+Section 1. Loan Amount and Purpose
+1.1 Loan Amount: Three Million Dollars ($3,000,000).
+1.2 Purpose: Fleet upgrades, working capital, and warehouse automation initiatives.
+
+Section 2. Interest and Payments
+2.1 Interest Rate: Variable at SOFR + 3.25%, adjusted monthly.
+2.2 Interest Rate Floor: Not less than 5.75% per annum.
+2.3 Payment Schedule: Interest-only payments monthly through April 2026; thereafter principal and interest.
+2.4 Late Charge: 5% of any payment not received within 5 days.
+
+Section 3. Maturity
+3.1 Maturity Date: March 3, 2028.
+
+Section 4. Prepayment
+4.1 Prepayment: Permitted with a 2% penalty if prepaid within 18 months.
+
+Section 5. Collateral
+5.1 Collateral: First-priority lien on all vehicles, equipment, and accounts receivable.
+5.2 Additional Security: Corporate guarantee by Harbor Holdings, Inc.
+
+Section 6. Financial Covenants
+6.1 Minimum Liquidity: Borrower must maintain at least $600,000 in unrestricted cash.
+6.2 Leverage Ratio: Total Debt / EBITDA not to exceed 2.25x, tested quarterly.
+6.3 Fixed Charge Coverage: Minimum 1.20x, tested quarterly.
+
+Section 7. Reporting
+7.1 Financial Statements: Monthly unaudited statements within 20 days.
+7.2 Annual Audited Statements: Within 90 days of fiscal year end.
+
+Section 8. Events of Default
+8.1 Payment Default: Failure to pay within 5 days of due date.
+8.2 Covenant Default: Failure to cure within 15 days after notice.
+8.3 Material Adverse Change.
+
+Section 9. Fees
+9.1 Origination Fee: 1.00% of Loan Amount.
+9.2 Annual Agency Fee: $12,000 per year.
+
+Section 10. Governing Law
+10.1 Governing Law: Illinois.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+LENDER: Northgate Bank, N.A.
+By: _______________________
+Name: Alicia Reyes
+Title: SVP, Commercial Lending
+
+BORROWER: Harbor Logistics, LLC
+By: _______________________
+Name: Omar Patel
+Title: Managing Member

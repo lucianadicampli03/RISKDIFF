@@ -1,0 +1,60 @@
+COMMERCIAL LOAN AGREEMENT
+
+This Commercial Loan Agreement ("Agreement") is made as of March 3, 2025, by and between:
+
+LENDER: Northgate Bank, N.A.
+Address: 800 Market Street, Chicago, IL 60606
+
+BORROWER: Harbor Logistics, LLC
+Address: 2200 Riverfront Blvd, St. Louis, MO 63101
+
+RECITALS
+Borrower has requested a term loan, and Lender agrees to extend credit on the terms below.
+
+Section 1. Loan Amount and Purpose
+1.1 Loan Amount: Three Million Dollars ($3,000,000).
+1.2 Purpose: Fleet upgrades and working capital.
+
+Section 2. Interest and Payments
+2.1 Interest Rate: Fixed at 6.25% per annum.
+2.2 Payment Schedule: Monthly principal and interest, beginning May 1, 2025.
+2.3 Late Charge: 4% of any payment not received within 10 days.
+
+Section 3. Maturity
+3.1 Maturity Date: March 3, 2030.
+
+Section 4. Prepayment
+4.1 Prepayment: Permitted without penalty.
+
+Section 5. Collateral
+5.1 Collateral: First-priority lien on all vehicles and related equipment.
+
+Section 6. Financial Covenants
+6.1 Minimum Liquidity: Borrower must maintain at least $400,000 in unrestricted cash.
+6.2 Leverage Ratio: Total Debt / EBITDA not to exceed 2.75x, tested quarterly.
+
+Section 7. Reporting
+7.1 Financial Statements: Quarterly unaudited statements within 45 days.
+7.2 Annual Audited Statements: Within 120 days of fiscal year end.
+
+Section 8. Events of Default
+8.1 Payment Default: Failure to pay within 15 days of due date.
+8.2 Covenant Default: Failure to cure within 30 days after notice.
+
+Section 9. Fees
+9.1 Origination Fee: 0.75% of Loan Amount.
+
+Section 10. Governing Law
+10.1 Governing Law: Illinois.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+LENDER: Northgate Bank, N.A.
+By: _______________________
+Name: Alicia Reyes
+Title: SVP, Commercial Lending
+
+BORROWER: Harbor Logistics, LLC
+By: _______________________
+Name: Omar Patel
+Title: Managing Member
