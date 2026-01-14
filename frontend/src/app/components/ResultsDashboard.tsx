@@ -175,7 +175,7 @@ export function ResultsDashboard({ onBack, onClauseClick, changes, executiveSumm
 
           {/* Clause Changes List */}
           <div className="flex-1">
-            <ScrollArea className="h-[calc(100vh-280px)]">
+            <ScrollArea className="h-[calc(100vh-220px)]">
               <div className="space-y-4 pr-4">
                 {filteredChanges.map((change) => (
                   <ClauseChangeCard
