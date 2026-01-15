@@ -112,7 +112,7 @@ export default function App() {
           '—',
         clauseTitle:
           change.amendedClause?.title || change.originalClause?.title || 'Untitled Clause',
-        changeType: change.changeType,
+        changeType: change.changeType as 'added' | 'removed' | 'modified',
         riskLevel: change.riskLevel.toLowerCase() as 'low' | 'medium' | 'high',
         beneficiary: change.beneficiary.toLowerCase() as 'borrower' | 'lender' | 'neutral',
         beforeText: change.originalClause?.content || '',
